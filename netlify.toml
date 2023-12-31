@@ -1,6 +1,0 @@
-[build]
-  publish = "arachnado/arachnado/static"
-  functions = "arachnado/arachnado"
-
-[build.environment]
-  PYTHON_VERSION = "3.8"
