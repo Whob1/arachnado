@@ -1,5 +1,5 @@
 setuptools==50.0.0
-motor==0.6.2
+motor==2.5.0,<3.0.0
 scrapy == 1.1.0
 tornado == 4.2      # tornado==4.3 seems to cause problems
 psutil == 4.2.0
